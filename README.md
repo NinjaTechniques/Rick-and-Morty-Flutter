@@ -28,7 +28,7 @@ Esta aplicación móvil, desarrollada con Flutter, consume la API pública de Ri
 <table> 
 <tr> 
 <td>
-<img src="https://i.postimg.cc/ZqWZwqDf/home.jpg" alt="Pantalla de Inicio" width="200"/>
+<img src="https://i.postimg.cc/3RvkchwT/homeApp.jpg" alt="Pantalla de Inicio" width="200"/>
 </td> 
 <td><img src="https://i.postimg.cc/K8vmgf7h/home-favorites.jpg" alt="Pantalla de inicio con marcas de favorito" width="200"/>
 </td>
