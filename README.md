@@ -3,7 +3,9 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/RCytd3sY/logo-rick-morty.png" alt="FLEX Logo" width="300"/> </p>
 
-Esta aplicación móvil, desarrollada con Flutter, consume la API pública de Rick and Morty para mostrar una lista de personajes de la popular serie animada. Los usuarios pueden ver los detalles de cada personaje, marcarlos como favoritos y acceder a una lista de sus personajes favoritos. Este ejercicio práctico está diseñado para familiarizarse con Flutter y aprender a manejar APIs, gestión de estado, y navegación en una aplicación móvil.
+<p align="center">By Claudio Moreno</p>
+
+Esta aplicación móvil, desarrollada con Flutter para el curso de Aplicaciones para dispositivos móviles CC238-2401-WV61, consume la API pública de Rick and Morty para mostrar una lista de personajes de la popular serie animada. Los usuarios pueden ver los detalles de cada personaje, marcarlos como favoritos y acceder a una lista de sus personajes favoritos. Este ejercicio práctico está diseñado para familiarizarse con Flutter y aprender a manejar APIs, gestión de estado, y navegación en una aplicación móvil.
 
 ### Objetivos del Ejercicio
 
